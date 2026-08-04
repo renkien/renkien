@@ -15,8 +15,6 @@ Based on the code I've written across my repos, here's my language breakdown:
 
 </details>
 
-## 🐍 Snake Game
-
-Watch the snake gobble up my commits across the contribution graph:
+## 🐍
 
 ![snake gif](https://github.com/renkien/renkien/blob/output/github-contribution-grid-snake.gif)
